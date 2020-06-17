@@ -2,3 +2,5 @@ Mango
 Apple
 Banana
 Strawberry
+Cherry
+Pineapple
