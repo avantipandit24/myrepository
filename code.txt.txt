@@ -3,3 +3,5 @@ Banana
 Pineapple
 Strawberry
 Guava
+Apple
+Blueberry
